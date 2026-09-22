@@ -1,5 +1,5 @@
 print("--------------To_do_List--------------")
-do_list=[5,6]
+do_list=[]
 done_list=[]
 
 def add_tasks():
